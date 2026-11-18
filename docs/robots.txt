@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /storage/
+Disallow: /data/
+Disallow: /inc/
+Disallow: /enquire.php
+
+Sitemap: https://pk-76.github.io/rising_star/sitemap.xml
